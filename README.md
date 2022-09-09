@@ -5,7 +5,7 @@ This is a gesture based music notation system that allow users to draw music ele
 
 Run
 
-◦ Open main.java in the musicEd folder in IDE
+◦ Open main.java in the music/src/musicEd folder in IDE
 
 ◦ Run the main.java (wih WindowPANEL = new ShapeTrainer()) to train some shapes and save in a file.
 
